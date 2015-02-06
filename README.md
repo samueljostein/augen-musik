@@ -1,2 +1,2 @@
 # augen-musik
-repo for the 
+repo for the augenmusik project.
